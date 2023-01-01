@@ -47,7 +47,7 @@ button{
 }
 
 .main__image{
-    background-image: url(/img/showcase.jpg);
+    background-image: url(showcase.jpg);
     color: white;
     text-align: center;
     background-size: cover;
