@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../website-page-design"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Senih"
+	}
+}
